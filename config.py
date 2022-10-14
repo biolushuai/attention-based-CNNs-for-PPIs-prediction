@@ -1,8 +1,7 @@
 class DefaultConfig(object):
-    train_dataset_path = r'./data/deepppisp_test.pkl'
-    test_dataset_path = r'./data/pipenn_zk448_a_52.pkl'
-    # test_dataset_path = r'./data/deepppisp_test_52.pkl'
-    save_path = r'./models_saved/pipenn_a_feat52_att32_cnn64_k357_w5_e100_c10_b128_lr0.001_dp0.2_ng0.1_sp0.8'
+    train_dataset_path = r'./data/pipenn_a_train.pkl'
+    test_dataset_path = r'./data/pipenn_zk448.pkl'
+    save_path = r'./models_saved/model.tar'
 
     epochs = 100
     batch_size = 32
