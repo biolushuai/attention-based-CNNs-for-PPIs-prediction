@@ -1,6 +1,6 @@
 class DefaultConfig(object):
     train_dataset_path = r'./data/pipenn_a_train.pkl'
-    test_dataset_path = r'./data/pipenn_zk448.pkl'
+    test_dataset_path = r'./data/pipenn_zk448_a.pkl'
     save_path = r'./models_saved/model.tar'
 
     epochs = 100
