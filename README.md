@@ -7,7 +7,7 @@ Abstract—Proteins usually perform their cellular functions by interacting with
 Baidu Netdisk: https://pan.baidu.com/s/1Vm100xiSMJ5PP_SWkUTtwA (Password: PSSP)
 
 # 2. Requirement
-Python >=3.8
+Python >=3.8  
 Pytorch >=1.10
 
 # 3. Reproducibility
