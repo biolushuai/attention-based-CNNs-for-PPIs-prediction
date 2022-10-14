@@ -3,13 +3,13 @@ class DefaultConfig(object):
     test_dataset_path = r'./data/pipenn_zk448_a.pkl'
     save_path = r'./models_saved/model.tar'
 
-    epochs = 100
+    epochs = 150
     batch_size = 32
 
     learning_rate = 0.001
     weight_decay = 5e-4
     dropout_rate = 0.2
-    # neg_wt = 0.06
+    neg_wt = 0.1
     split_rate = 0.8
 
     #  input layer
