@@ -13,13 +13,14 @@ Baidu Netdisk: https://pan.baidu.com/s/1Vm100xiSMJ5PP_SWkUTtwA (Password: PPIS)
 
 ## 3. Reproducibility
 
-## 4. References
+
+## 4. Citation
+[1] Shuai Lu, Yuguang Li, Xiaofei Nan*, Shoutao Zhang*. Attention-based Convolutional Neural Networks for Protein-Protein Interaction Site Prediction[C]. The 2021 IEEE International Conference on Bioinformatics and Biomedicine(BIBM2021), 2021, 141-144. DOI:10.1109/BIBM52615.2021.9669435.
+
+## 5. References
 [1] Min Zeng, Fuhao Zhang, Fang-Xiang Wu, Yaohang Li, Jianxin Wang, Min Li*. Protein-protein interaction site prediction through combining local and global features with deep neural networks[J]. Bioinformatics, 36(4), 2020, 1114–1120. DOI:10.1093/bioinformaticsz699.  
 
 [2] Bas Stringer*, Hans de Ferrante, Sanne Abeln, Jaap Heringa, K. Anton Feenstra and Reza Haydarlou* (2022). PIPENN: Protein Interface Prediction from sequence with an Ensemble of Neural Nets[J]. Bioinformatics, 38(8), 2022, 2111–2118. DOI:10.1093/bioinformatics/btac071.
-
-## 5. Citation
-[1] Shuai Lu, Yuguang Li, Xiaofei Nan*, Shoutao Zhang*. Attention-based Convolutional Neural Networks for Protein-Protein Interaction Site Prediction[C]. The 2021 IEEE International Conference on Bioinformatics and Biomedicine(BIBM2021), 2021, 141-144. DOI:10.1109/BIBM52615.2021.9669435.
 
 ## 6. Contact
 For questions and comments, feel free to contact : ielushuai@126.com.
