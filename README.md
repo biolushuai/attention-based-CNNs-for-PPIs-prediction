@@ -23,4 +23,4 @@ Baidu Netdisk: https://pan.baidu.com/s/1Vm100xiSMJ5PP_SWkUTtwA (Password: PPIS)
 [2] Bas Stringer*, Hans de Ferrante, Sanne Abeln, Jaap Heringa, K. Anton Feenstra and Reza Haydarlou* (2022). PIPENN: Protein Interface Prediction from sequence with an Ensemble of Neural Nets[J]. Bioinformatics, 38(8), 2022, 2111–2118. DOI:10.1093/bioinformatics/btac071.
 
 ## 6. Contact
-For questions and comments, feel free to contact : ielushuai@126.com.
+For questions and comments, feel free to contact : ieslu@zzu.edu.cn
